@@ -12,3 +12,10 @@ The DCF (Discounted Cash Flow) Model Dashboard is an interactive tool designed t
 - **Dash**: A Python framework for building analytical web applications.
 - **Plotly**: For creating interactive plots.
 - **YFinance**: To fetch live financial data.
+
+## Usage
+Once the application is running:
+1. Enter the stock ticker symbol in the input field.
+2. Adjust the growth rate, discount rate, and number of years as needed.
+3. Click the "Calculate DCF" button to view the valuation results and graph.
+
